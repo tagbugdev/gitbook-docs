@@ -1,4 +1,4 @@
-# Screenshot
+# 📷 Screenshot
 
 ## Step 1 - Start journalling
 

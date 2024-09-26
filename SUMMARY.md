@@ -8,7 +8,7 @@
 
 ## Product Features
 
-* [Screenshot](product-features/screenshot.md)
+* [📷 Screenshot](product-features/screenshot.md)
 * [Video Recording](product-features/video-recording.md)
 * [Instant Replay](product-features/instant-replay.md)
 * [Dev Tools](product-features/dev-tools.md)
