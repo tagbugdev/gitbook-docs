@@ -2,7 +2,7 @@
 
 ## What is TagBug
 
-TagBug is ...
+TagBug is a open source, privacy first bug report tool for your website.
 
 Here are a couple of example overviews from products with really great docs:
 
